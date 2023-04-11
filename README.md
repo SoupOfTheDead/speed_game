@@ -19,3 +19,8 @@ general information:
 - need to alt+f4 to close window (i'm too lazy to change that right now)
 - weird mesh in the middle of the test area is a procedural cloud test
 - currently no way to actually lose or reset
+
+current queued update:
+- post processing effects
+- better test environment
+- adjusted overall velocity
